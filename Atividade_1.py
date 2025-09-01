@@ -1,6 +1,4 @@
 # atividade_1.py
-#Esse vai ser usadoo, comparar com o primeiro codigo
-
 
 from graphviz import Digraph
 import random
@@ -104,3 +102,4 @@ if __name__ == "__main__":
     resultado_aleatoria = avaliar(raiz_aleatoria)
     print(f"Resultado da expressão aleatória: {resultado_aleatoria}")
     gerar_imagem(raiz_aleatoria, "arvore_aleatoria")
+
